@@ -10,8 +10,6 @@ Dataset dan skrip pemrosesan untuk klasifikasi tema hadis.
 
 ---
 
-## Cara Menjalankan
-
 1. Persyaratan
 Pastikan Python 3.x sudah terinstal beserta pustaka yang dibutuhkan:
 ```bash
