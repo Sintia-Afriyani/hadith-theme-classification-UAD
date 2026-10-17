@@ -23,3 +23,4 @@ python langkah4_tambahan.py
 ---
 Sitasi:
 Jika menggunakan dataset atau skrip ini dalam penelitian, silakan sitasi repositori GitHub ini.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23439206.svg)](https://doi.org/10.5281/zenodo.23439206)
