@@ -1,5 +1,7 @@
 # Hadith Theme Classification
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23439206.svg)](https://doi.org/10.5281/zenodo.23439206)
+
 Dataset dan skrip pemrosesan untuk klasifikasi tema hadis.
 
 ## 📌 Sumber Data & Lisensi
@@ -11,7 +13,7 @@ Dataset dan skrip pemrosesan untuk klasifikasi tema hadis.
 
 ## 🛠️ Cara Menjalankan
 
-###  Prasyarat
+### 1. Prasyarat
 Pastikan Python 3.x sudah terinstal beserta pustaka yang dibutuhkan:
 ```bash
 pip install pandas scikit-learn
