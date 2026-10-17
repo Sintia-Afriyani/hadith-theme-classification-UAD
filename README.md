@@ -19,3 +19,8 @@ python siapkan_rilis.py
 python langkah2_pipeline.py
 python langkah3_analisis_galat.py
 python langkah4_tambahan.py
+
+---
+
+## 🔗 Sitasi
+Jika menggunakan dataset atau skrip ini dalam penelitian, silakan sitasi repositori GitHub ini.
