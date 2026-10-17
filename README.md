@@ -22,5 +22,5 @@ python langkah4_tambahan.py
 
 ---
 
-## 🔗 Sitasi
+**## 🔗 Sitasi**
 Jika menggunakan dataset atau skrip ini dalam penelitian, silakan sitasi repositori GitHub ini.
