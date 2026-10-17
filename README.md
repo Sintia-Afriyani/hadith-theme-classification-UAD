@@ -1,3 +1,4 @@
+Markdown
 # Hadith Theme Classification
 
 Dataset dan skrip pemrosesan untuk klasifikasi tema hadis.
@@ -5,30 +6,26 @@ Dataset dan skrip pemrosesan untuk klasifikasi tema hadis.
 ## Sumber Data & Lisensi
 
 - **Dataset**: `dataset_rilis.csv`
-- **Lisensi**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id)
+- **Lisensi**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.id) (Mengikuti lisensi dari sumber data asal).
 
 ---
 
 ## Cara Menjalankan
 
-### 1. Prasyarat
+1. Persyaratan
 Pastikan Python 3.x sudah terinstal beserta pustaka yang dibutuhkan:
 ```bash
 pip install pandas scikit-learn
 
-### 2. Persiapan Data
+2. Persiapan Data
 Jalankan skrip persiapan data terlebih dahulu untuk memproses file dataset:
-```bash
-python siapkan_rilis.py
 
-### 3. Eksekusi Skrip Pemrosesan
+Bash
+python siapkan_rilis.py
+3. Eksekusi Skrip Pemrosesan
 Jalankan skrip pemrosesan secara berurutan sesuai tahapannya:
-```bash
+
+Bash
 python langkah2_pipeline.py
 python langkah3_analisis_galat.py
 python langkah4_tambahan.py
-
----
-
-## 🔗 Sitasi
-Jika menggunakan dataset atau skrip ini dalam penelitian, silakan sitasi repositori GitHub ini.
