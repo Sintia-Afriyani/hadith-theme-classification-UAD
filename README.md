@@ -7,7 +7,7 @@ Dataset, code, and results for classifying English hadith translations into four
 Labels are derived from the titles of the books that contain each hadith.
 
 ## Data source and licence
-- Source: `freococo/sunnah_dataset` on Hugging Face (compiled from Sunnah.com). Accessed: [isi tanggal akses], commit: [isi kode commit].
+- Source: `freococo/sunnah_dataset` on Hugging Face (compiled from Sunnah.com). Accessed: [19 Oktober 2026], commit: [https://zenodo.org/records/23475488].
 - Licence: CC BY-NC-SA 4.0 (follows the source). Non-commercial use, with attribution to Sunnah.com and the dataset authors.
 
 ## Version 1.1
