@@ -1,6 +1,6 @@
 # Hadith Theme Classification
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23439206.svg)](https://doi.org/10.5281/zenodo.23439206)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23475488.svg)](https://doi.org/10.5281/zenodo.23475488)
 
 Dataset, code, and results for classifying English hadith translations into four themes
 (medicine, food, natural phenomena, purification) and for topic modelling.
